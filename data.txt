@@ -1,0 +1,18 @@
+The girl you want
+Is your character an adult man?	No	No
+Is your character a woman ?	Yes	Yes
+Is your character real?	Yes	Yes
+Is your character an actor?	No	No
+Is your character a singer, or does he work with a singer (as a songwriter, producer, musician...)?	No	No
+Is your character famous?	No	No
+Is your character a member of your family?	No	No
+Have you ever fallen in love with your character?	Yes	Yes
+Have you kissed your character on the lips?	Yes	No
+Is your character in the Bible?	No	No
+Are you currently involved with your character?	Yes	No
+Does your character know your family?	No	No
+Does your character live in North America?	No	No
+Can your character regenerate?	No	No
+Have you ever seen your character naked?	No	No
+Does your character seek an audience outside the mainstream?	No	No
+Is your character in love with you?	Don't know	No
